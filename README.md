@@ -1,2 +1,2 @@
-# Trex
-Trex game in google chrome.
+# trex
+Offline Game where trex jumps and runs over the obstacles.
